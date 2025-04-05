@@ -1,0 +1,10 @@
+gradio
+requests
+pdfplumber
+python-docx
+spacy
+nltk
+textstat
+language-tool-python
+scikit-learn
+groq
